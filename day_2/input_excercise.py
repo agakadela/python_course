@@ -1,1 +1,1 @@
-# Save input to the variable and print it
+# Save your pet name (from input) to the variable and print it.
